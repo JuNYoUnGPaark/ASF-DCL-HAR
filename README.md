@@ -39,10 +39,8 @@ The implementation uses PyTorch, Numpy, pandas, scikit-learn, matplotlib, seabor
 If you use this code in your research, please cite:
 
 ```
-@article{Learning Physically Consistent Representations for Human Activity
-Recognition via Modern Temporal Convolutional Network,
-  title = {Learning Physically Consistent Representations for Human Activity
-Recognition via Modern Temporal Convolutional Network},
+@article{Dynamics-Aware Action State Flow for Wearable Human Activity Recognition,
+  title = {Dynamics-Aware Action State Flow for Wearable Human Activity Recognition},
   author={JunYoung Park, Gyuyeon Lim, and Myung-Kyu Yi}
   journal={},
   volume={},
