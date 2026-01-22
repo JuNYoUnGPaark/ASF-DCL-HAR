@@ -13,7 +13,7 @@ This repository implements the methodology proposed in the paper "Dynamics-Aware
 - **PAMAP2** dataset is available at _https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring_
 - **MHEALTH** dataset is available at _https://archive.ics.uci.edu/dataset/319/mhealth+dataset_
 - **WISDM** dataset is available at _https://www.cis.fordham.edu/wisdm/dataset.php_
-- **UniMiB** dataset is available at _http://www.sal.disco.unimib.it/technologies/unimib-shar/
+- **UniMiB** dataset is available at _http://www.sal.disco.unimib.it/technologies/unimib-shar/_
 
 ## Requirements
 ```
